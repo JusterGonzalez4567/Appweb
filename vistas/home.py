@@ -19,7 +19,7 @@ with st.container():
     st.write(
         "Somos unos apasionados de las tenologías y la innovación, especialización en el sector de la digitalización y automatización de negocios. Nos gusta crear soluciones para resolver problemas y mejorar procesos. "
     )
-    st.write("[Saber más>]((https://share.streamlit.io/user/diether28))"
+    st.write("[Saber más>]((https://share.streamlit.io/user/justergonzalez4567))"
     )
 
 #Sobre nosostros
@@ -78,7 +78,7 @@ with texto_columna:
         trabajar con documentación en papel, es hora de pensar en implementar una aplicación en tu negocio para potenciar y optimizar el funcionamiento de los procesos diarias
         """
     )
-    st.write("[Ver servicios >](https://share.streamlit.io/user/diether28)")
+    st.write("[Ver servicios >](https://share.streamlit.io/user/justergonzalez4567)")
     
     with imagen_columna:
         lottie_path = "./animation/Lottie Lego.json"
